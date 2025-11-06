@@ -7,6 +7,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=hatemabd-elkarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hatemabd-elkarim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hatemabd-elkarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=hatemabd-elkarim&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hatemabd-elkarim&theme=radical&no-frame=false&no-bg=true&margin-w=4)

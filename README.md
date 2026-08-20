@@ -56,3 +56,9 @@
     <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,npm,vercel,arduino" />
   </a>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hatemabd-elkarim&"  />
+</div>

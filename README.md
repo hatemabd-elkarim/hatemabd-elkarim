@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/hatem_777">
+  <a href="https://discord.com/users/611825683479527441">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   &nbsp;&nbsp;
